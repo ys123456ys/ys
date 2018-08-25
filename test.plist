@@ -33,7 +33,7 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.tianyao.kpyx</string>
+				<string>com.xuegao.test</string>
 				<key>bundle-version</key>
 				<string>1.0.0</string>
 				<key>kind</key>
